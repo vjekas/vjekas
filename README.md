@@ -3,11 +3,13 @@ Hi 👋 My name is Vjekoslav Vuckovic
 
 In my spare time {on&off} I've been learning to code for 5 years, and I'm on the way to switching careers to work as a complete web developer. I started with HTML, CSS & JavaScript, and Java & MySQL as my backend technologies. I like challenges & to learn new things, it keeps my brain fresh & active.
 
-*   🌍  I'm based in Serbia
-*   ✉️  You can contact me at [vjekoslav.vuckovic@gmail.com](mailto:vjekoslav.vuckovic@gmail.com)
-*   🚀  I'm currently working on [MyPortfolio](http://github.com/vjekas/portfolio-vjekas)
-*   🧠  I'm learning full stack web development
-*   🤝  I'm open to collaborating on Full Stack Web Development### Skills 
+*   🌍  I'm based in Serbia
+*   ✉️  You can contact me at [vjekoslav.vuckovic@gmail.com](mailto:vjekoslav.vuckovic@gmail.com)
+*   🚀  I'm currently working on [MyPortfolio](http://github.com/vjekas/portfolio-vjekas)
+*   🧠  I'm learning full stack web development
+*   🤝  I'm open to collaborating on Full Stack Web Development
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -25,15 +27,17 @@ In my spare time {on&off} I've been learning to code for 5 years, and I'm on the
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
                     
+
                   ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/vjekas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/vjekas.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/vjekas"><img src="https://github-readme-stats.vercel.app/api?username=vjekas&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="vjekas's GitHub stats" /></a><a
-                      href="http://www.github.com/vjekas"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=vjekas&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/vjekas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vjekas&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                  <p align="left"> <a href="https://www.github.com/vjekas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vjekas.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vjekas"><img src="https://github-readme-stats.vercel.app/api?username=vjekas&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="vjekas's GitHub stats" /></a>
+
+<a href="http://www.github.com/vjekas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vjekas&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/vjekas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vjekas&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
