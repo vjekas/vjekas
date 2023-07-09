@@ -5,7 +5,7 @@ In my spare time {on&off} I've been learning to code for 5 years, and I'm on the
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [vjekoslav.vuckovic@gmail.com](mailto:vjekoslav.vuckovic@gmail.com)
-*   🚀  I'm currently working on [Corner-Post Blog website](https://github.com/vjekas/corner-post-back-end)
+*   🚀  I'm currently working on [Corner-Post Blog website](https://github.com/vjekas/Photo-gallery)
 *   🧠  I'm learning full stack web development
 *   🤝  I'm open to collaborating on Full Stack Web Development
 
