@@ -1,7 +1,7 @@
 Hi 👋 My name is Vjekoslav Vuckovic
 ===================================
 
-In my spare time {on&off} I've been learning to code for 5 years, and I'm on the way to switching careers to work as a complete web developer. I started with HTML, CSS & JavaScript, and Java & MySQL as my backend technologies. I like challenges & to learn new things, it keeps my brain fresh & active.
+In my spare time {on&off} I've been learning to code for 6 years, and I'm on the way to switching careers to work as a complete web developer. I started with HTML, CSS & JavaScript, and Java & MySQL as my backend technologies. I like challenges & to learn new things, it keeps my brain fresh & active.
 
 *   🌍  I'm based in Serbia
 *   ✉️  You can contact me at [vjekoslav.vuckovic@gmail.com](mailto:vjekoslav.vuckovic@gmail.com)
